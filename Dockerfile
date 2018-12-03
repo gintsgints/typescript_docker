@@ -6,6 +6,7 @@ RUN apk add --no-cache --virtual .persistent-deps \
         # for node-sass module
         make \
         gcc \
+        docker \
         g++ \
         python \
         py-pip \
