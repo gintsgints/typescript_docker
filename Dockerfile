@@ -7,6 +7,7 @@ RUN apk add --no-cache --virtual .persistent-deps \
         make \
         gcc \
         docker \
+        mysql \
         g++ \
         python \
         py-pip \
